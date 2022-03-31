@@ -74,6 +74,9 @@ class MapSampleState extends State<MapSample> {
             child: Text('JMZbjnm,n,m'),
             onPressed: () {
               ttt = 4;
+              ttt = 5;
+              ttt = 6;
+
             },
           ),
         ],
