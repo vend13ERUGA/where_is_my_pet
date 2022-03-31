@@ -76,6 +76,7 @@ class MapSampleState extends State<MapSample> {
               ttt = 8;
               nnn();
               ttt =3;
+              ttt = 7;
             },
           ),
         ],
