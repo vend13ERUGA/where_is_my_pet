@@ -73,10 +73,7 @@ class MapSampleState extends State<MapSample> {
           TextButton(
             child: Text('JMZbjnm,n,m'),
             onPressed: () {
-              ttt = 8;
-              nnn();
-              ttt =3;
-              ttt = 7;
+              ttt = 4;
             },
           ),
         ],
