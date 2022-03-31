@@ -56,6 +56,26 @@ class MapSampleState extends State<MapSample> {
               ttt = 8;
               nnn();
             },
+          ), TextButton(
+            child: Text('JMZK'),
+            onPressed: () {
+              ttt = 8;
+              nnn();
+            },
+          ),
+          TextButton(
+            child: Text('JMZK'),
+            onPressed: () {
+              ttt = 8;
+              nnn();
+            },
+          ),
+          TextButton(
+            child: Text('JMZK'),
+            onPressed: () {
+              ttt = 8;
+              nnn();
+            },
           ),
         ],
       ),
