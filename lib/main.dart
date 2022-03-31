@@ -64,14 +64,14 @@ class MapSampleState extends State<MapSample> {
             },
           ),
           TextButton(
-            child: Text('JMZK'),
+            child: Text('JMZnbmn,,nK'),
             onPressed: () {
               ttt = 8;
               nnn();
             },
           ),
           TextButton(
-            child: Text('JMZK'),
+            child: Text('JMZbjnm,n,m'),
             onPressed: () {
               ttt = 8;
               nnn();
