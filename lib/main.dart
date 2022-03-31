@@ -75,6 +75,7 @@ class MapSampleState extends State<MapSample> {
             onPressed: () {
               ttt = 8;
               nnn();
+              ttt =3;
             },
           ),
         ],
